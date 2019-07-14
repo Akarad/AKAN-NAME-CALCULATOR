@@ -7,6 +7,7 @@ h1{
   background-image: url('../images/images.jpeg');
   padding: 60px;
   background-size: contain;
+  opacity: 2.0;
 }
 h3{
   text-align: center;
