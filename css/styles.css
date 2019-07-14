@@ -1,0 +1,10 @@
+h1{
+  text-align: center;
+  font-family: serif;
+  font-weight: bold;
+}
+.bg-image{
+  background-image: url('../images/images.jpeg');
+  padding: 60px;
+  background-size: contain;
+}
