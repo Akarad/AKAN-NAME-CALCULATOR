@@ -12,7 +12,7 @@ You should start by :
   - Then open the folder with atom.
   
   # Screenshot of webpage
-  ![](Screenshot from 2019-07-15 01-56-51.png)
+  ![](Screenshot.png)
   
 ## Link to Webpage
 https://handywork1.github.io/AKAN-NAME-CALCULATOR/
