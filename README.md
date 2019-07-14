@@ -1,8 +1,8 @@
-#**AKAN-NAME-CALCULATOR**
+# **AKAN-NAME-CALCULATOR**
 This is a webpage written in HTML and JavaScript and designed with CSS and BOOTSTRAP which calculates the day of the week in which you were born in
 and then give you your AKAN name which is a ghanian tradition of naming people based on the day of the week they were born in.
 
-#**AUTHOR**
+# **AUTHOR**
 [HandyWork1](https://github.com/HandyWork1)
 
 # Setup Instructions
