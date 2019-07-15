@@ -11,6 +11,9 @@ You should start by :
   - Select the folder you cloned the repository to.
   - Then open the folder with atom.
   
+ # Screenshot of Webpage
+ ![](Screenshot.png)
+  
 ## Link to Webpage
 https://handywork1.github.io/AKAN-NAME-CALCULATOR/
     
